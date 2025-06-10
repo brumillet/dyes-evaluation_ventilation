@@ -8,5 +8,5 @@ The transient dyes, temperature and salinity fiels for the three models can be f
 
 To run the code, modify the data_path var for your repository where you store the data.
 
-The steady-state dyes of the sensitivty experiments were not published, because of their size. If you would like to have access to it, please email me at bruno-millet@hotmail.com. For similar reasons, the files needed to obtain the extrapolated ages were not shared. However, using the age after 6000y divided by the sum of the dyes should give about the same results, as described in the paper. The velocities used for the comparison with the reanalysis product were also not made publically available but can also be provided.
+Detailed output from the sensitivty experiments were not published, because of their size. If you would like to have access to it, or any other unpublished model output, please email me at bruno-millet@hotmail.com. For the figures where the original data is not available (sensitivity experiments, velocities) you will find the processed arrays in the data folder as well as the different masks defined for this study.
 
