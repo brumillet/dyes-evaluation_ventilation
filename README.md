@@ -1,4 +1,4 @@
-This GitHub repository contains one notebook which shows how the different figures of the following manuscript were obtained:
+This GitHub repository contains one notebook that shows the analysis performed for the following manuscript:
 
 Bruno Millet, Casimir de Lavergne, William Robert Gray, et al. Deep ocean ventilation: a comparison between a general circulation model and data-constrained inverse models. ESS Open Archive . December 27, 2024. https://doi.org/10.22541/essoar.173532470.03609119/v1
 
